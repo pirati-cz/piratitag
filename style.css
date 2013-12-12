@@ -1,0 +1,21 @@
+div.dokuwiki #main ul.piratitag {
+     padding:0px;
+     margin:0px;
+     list-style:none;
+     padding:5px;
+}
+div.dokuwiki #main ul.piratitag li {
+     margin-right:10px;
+}
+div.dokuwiki #main ul.piratitag li a,
+div.dokuwiki #main ul.piratitag li a:link,
+div.dokuwiki #main ul.piratitag li a:visited {
+     text-decoration:none;
+     color:#fff;
+}
+div.dokuwiki #main ul.piratitag li a:hover {
+     
+}
+div.dokuwiki #main ul.piratitag li.category-0 {
+     
+}
